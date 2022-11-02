@@ -34,10 +34,10 @@
 	
 	#main2{
 		margin:0px auto;
-		width:924px; /*perchè qui 924 per fare la stessa dimensione della 1° pagina???????*/
+		width:1024px; /*perchè qui 924 per fare la stessa dimensione della 1° pagina???????*/
 		background: #F2F3F4;
 		padding: 10px 50px 20px 30px;
-		line-height:20px;
+		line-height:24px;
 		
 	}
 	
@@ -52,7 +52,7 @@
 	width:1024px; /*perchè qui 924 per fare la stessa dimensione della 1° pagina???????*/
 	background: snow;
 	padding: 10px 50px 20px 30px;
-	line-height: 20px; 
+	line-height: 24px; 
 	}
 	
 	#main4{
