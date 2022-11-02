@@ -3,9 +3,9 @@
 	h2{color:olive; font-family: Calisto MT;}
 	h3,h4{color:olive; font-family: Calisto MT; margin: 1px}
 	
-	/* margin : tot indica la distanza del testo dal titolo*/
 	
-	.alignleft {float: left; padding: 2px 15px 15px 0; } /* funzioni che allineano le immagini accanto al testo, goicare con i numeri per metterle come voglio*/
+	
+	.alignleft {float: left; padding: 2px 15px 15px 0; } /* funzioni che allineano le immagini accanto al testo*/
 	.alignright {float: right; padding: 2px 0 20px 20px; } 
 	.aligncenter {
       display:block;
@@ -14,7 +14,7 @@
       }
 	
 
-	.ridimensiona1{width:300px;height:auto;} /*ridimensiona le immagini come voglio io*/
+	.ridimensiona1{width:300px;height:auto;} /*ridimensiona le immagini*/
 	.ridimensiona2{width:250px; height:auto;} /*ridimensiona immagine più piccola*/
 	.ridimensiona3{width:400px; height:auto;}
 	.ridimensiona4{width:200px; heught:auto;}
@@ -30,11 +30,11 @@
 		background: #F2F3F4; /*color grigio che fa da sfondo al riquadro più chiaro*/
 		padding: 10px 50px 20px 30px; 
 	}
-	/* main = formato che avrà tutto quanto*/ 
+	
 	
 	#main2{
 		margin:0px auto;
-		width:1024px; /*perchè qui 924 per fare la stessa dimensione della 1° pagina???????*/
+		width:1024px; 
 		background: #F2F3F4;
 		padding: 10px 50px 20px 30px;
 		line-height:24px;
@@ -49,7 +49,7 @@
 	
 	#main3{
 	margin:0px auto;
-	width:1024px; /*perchè qui 924 per fare la stessa dimensione della 1° pagina???????*/
+	width:1024px; 
 	background: snow;
 	padding: 10px 50px 20px 30px;
 	line-height: 25px; 
